@@ -29,7 +29,7 @@ li, a, input, button {
 }
 
 .header-photo {
-    background-image: url("Shape-1b.png");
+    background-image: url("./images/Shape-1b.png");
     height: 192px;
     background-position: center;
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ p {
 }
 
 .home {
-    background-image: url("photo-big-1.png");
+    background-image: url("./images/photo-big-1.png");
     height: 960px;
     background-position: center;
     background-repeat: no-repeat;
@@ -246,7 +246,7 @@ p {
 }
 
 .section-md {
-    background-image: url("Shape-2a.png");
+    background-image: url("./images/Shape-2a.png");
     height: 200px;
     background-position: center;
     background-repeat: no-repeat;
@@ -322,7 +322,7 @@ p {
 }
 
 .shadow-one {
-    background-image: url("Shadow-1.png");
+    background-image: url("./images/Shadow-1.png");
     height: 450px;
     width: 800px;
     max-height: 50vw;
@@ -399,7 +399,7 @@ p {
 }
 
 .upper {
-    background-image: url("Shape-3.png");
+    background-image: url("./images/Shape-3.png");
     bottom: 700px;
 }
 
@@ -427,7 +427,7 @@ p {
 /* SECTION FIVE */
 
 .section-five {
-    background-image: url("photo-big-4.png");
+    background-image: url("./images/photo-big-4.png");
     height: 1200px;
     background-position: right;
     background-repeat: no-repeat;
